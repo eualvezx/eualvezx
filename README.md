@@ -4,7 +4,15 @@
 
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eualvezx&show_icons=true&count_private=true&hide_border=true&title_color=33ff00&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+</div>
 
+
+
+
+![Bruno GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Eualvezx&bg_color=000000&color=00ff7b&line=00ff33&point=0b08d9&area=true&hide_border=true)
+<div align="center"> 
  
  
 ### Principais:
