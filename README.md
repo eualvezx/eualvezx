@@ -19,8 +19,10 @@
 
 
 ### Ferramentas:
+<div align="center">
 <img width="64" height="64" src="https://img.icons8.com/arcade/64/php.png" alt="php"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c-sharp-logo"/>
+</div>
 
   
 ### Estudando neste momento:
