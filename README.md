@@ -7,8 +7,7 @@
 
 
 
-![Bruno GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Eualvezx&bg_color=000000&color=00ff7b&line=00ff33&point=0b08d9&area=true&hide_border=true)
-<div align="center"> 
+
  
  
 ### Principais:
