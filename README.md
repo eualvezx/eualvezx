@@ -30,7 +30,7 @@
 <div align="center"> 
   <a href="https://www.instagram.com/eualvezx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"   
    target="_blank"></a>
-  <a href = "proworkbruno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="proworkbruno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/eualvezx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -40,4 +40,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eualvezx}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e50e6&height=120&section=footer"/>
