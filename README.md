@@ -1,8 +1,5 @@
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eualvezx&show_icons=true&count_private=true&hide_border=true&title_color=33ff00&icon_color=ffffff&text_color=c9d1d9&bg_color=ffffff" alt="" /> 
-</div>
 
  
  
