@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/eualvezx">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eualvezx&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117""/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eualvezx&show_icons=true&count_private=true&hide_border=true&title_color=6e50e6&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117""/>
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualvezx&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
   
