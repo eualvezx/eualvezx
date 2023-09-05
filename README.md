@@ -4,7 +4,7 @@
  
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adfffb&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e50e6&height=120&section=header"/>
 
 
 <div align="center">
