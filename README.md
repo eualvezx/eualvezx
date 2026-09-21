@@ -7,11 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e50e6&height=120&section=header"/>
 
 
-<div align="center">
-  <a href="https://github.com/eualvezx">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=eualvezx&show_icons=true&count_private=true&hide_border=true&title_color=6e50e6&icon_color=6e50e6&text_color=c9d1d9&bg_color=0d1117""/>
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eualvezx&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
+
   
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="bruno-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -31,9 +27,6 @@
 </div>
 
 
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eualvezx}/count.svg" /></p> 
-<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e50e6&height=120&section=footer"/>
