@@ -1,4 +1,4 @@
-<p align="center"><img src="capa.png" alt="Bruno Alves, Computer Engineering Student." width="100%"></p>
+<p align="center"><img src="assets/header2.png" alt="Bruno Alves, Computer Engineering Student." width="100%"></p>
 
 <p align="center">
   <em>FullStack Developer</em>
