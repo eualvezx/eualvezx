@@ -20,5 +20,5 @@
 ---
 ### 🛠️ Projects
 
-- [**Work Up**](https://github.com/YudiG12/second-brain-mcp): my Markdown notes in every AI client, with keyword and semantic search. Cloudflare Workers, Durable Objects, Queues, Vectorize.
-- [**Glass Investment**](https://github.com/YudiG12/video-planner): plan YouTube videos and reels; AI agents edit scripts over MCP. Cloudflare Workers + D1.
+- [**Work Up**]():
+- [**Glass Investment**]():.
