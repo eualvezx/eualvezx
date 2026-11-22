@@ -11,7 +11,7 @@
 
 
 ---
-### 🛠️ Projects
+###  Projects
 
 - [**Work Up**]():
 - [**Glass Investment**]():.
